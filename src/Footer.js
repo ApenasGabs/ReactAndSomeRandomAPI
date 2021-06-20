@@ -1,4 +1,4 @@
-import './Footer.css';
+import './styles/Footer.css';
 
 function Footer() {
   console.log('oi eu to aqui');
